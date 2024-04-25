@@ -1,2 +1,2 @@
 # OIK_10623R3
-Conjunto de dados e códigos em r do artigo “Tree richness affects ground-ant diversity and seed dispersal in a tropical biodiversity-ecosystem function experiment” disponível no jornal Oikos.
+Dataset and r-codes from the article “Tree richness affects ground-ant diversity and seed dispersal in a tropical biodiversity-ecosystem function experiment” available in the journal Oikos.
